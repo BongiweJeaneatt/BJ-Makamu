@@ -1,5 +1,5 @@
-# Bongiwe Jeanett Makamu
-Aspiring Business Systems Analyst | BSc Chemistry & Computer Science
+
+### Aspiring Business Systems Analyst | BSc Chemistry & Computer Science
 
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
