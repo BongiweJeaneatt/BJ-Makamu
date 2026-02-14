@@ -3,49 +3,47 @@ Aspiring Business Systems Analyst | BSc Chemistry & Computer Science
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hi, I’m Bongiwe Jeanett Makamu 👋
+I am a final-year BSc student majoring in Chemistry and Computer Science, with a growing interest in Business Systems Analysis and Data Analytics.
+
+I enjoy breaking down complex problems, understanding how systems work, and translating requirements into clear, structured solutions. Through academic projects and practical assignments, I have gained experience with SQL, HTML, UML diagrams, and process documentation.
+
+In addition, I run a small home-based sublimation and printing business, which has strengthened my skills in organisation, stakeholder communication, and problem-solving.
+
+I am currently building practical projects that showcase systems thinking, structured analysis, and data-driven problem-solving.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
-
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+### Technical Skills
+SQL (basic queries, data handling)
+HTML
+Basic programming concepts (variables, loops, conditionals)
+UML diagram creation (Use Case, Activity, Class diagrams)
+Process flow documentation
+Tableau / Power BI (introductory)
+Microsoft Word, Excel, PowerPoint
+### Business & Systems Analysis
+Business requirements analysis
+Problem identification and solution mapping
+Process analysis and improvement
+Systems thinking
+Documentation and reporting
+Stakeholder communication
+### Soft Skills
+Analytical and detail-oriented
+Strong problem-solving skills
+Clear written and verbal communication
+Time management and organisation
+Adaptability and fast learning
+Team collaboration 
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
-
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
@@ -55,15 +53,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:bjmakamu94k@gmail.com">bjmakamu94@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(+27) 60-815-8166</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>MP, South Africa</td>
     </tr>
     <tr>
       <td>⬇️</td>
