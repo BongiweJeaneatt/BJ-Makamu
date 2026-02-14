@@ -1,12 +1,6 @@
 # Bongiwe Jeanett Makamu
 Aspiring Business Systems Analyst | BSc Chemistry & Computer Science
 
----
-layout: home
-title: Jeanett Makamu
----
-
-<img src="{{ site.baseurl }}/assets/images/img_8861.jpg" alt="Jeanett Makamu" width="200">
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
