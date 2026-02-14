@@ -17,26 +17,26 @@ I am currently building practical projects that showcase systems thinking, struc
 ## SKILLS
 
 ### Technical Skills
-SQL (basic queries, data handling)
-HTML
-Basic programming concepts (variables, loops, conditionals)
-UML diagram creation (Use Case, Activity, Class diagrams)
-Process flow documentation
-Tableau / Power BI (introductory)
+SQL (basic queries, data handling),
+HTML,
+Basic programming concepts (variables, loops, conditionals),
+UML diagram creation (Use Case, Activity, Class diagrams),
+Process flow documentation,
+Tableau / Power BI (introductory),
 Microsoft Word, Excel, PowerPoint
 ### Business & Systems Analysis
-Business requirements analysis
-Problem identification and solution mapping
-Process analysis and improvement
-Systems thinking
-Documentation and reporting
-Stakeholder communication
+Business requirements analysis,
+Problem identification and solution mapping,
+Process analysis and improvement,
+Systems thinking,
+Documentation and reporting,
+Stakeholder communication,
 ### Soft Skills
-Analytical and detail-oriented
-Strong problem-solving skills
-Clear written and verbal communication
-Time management and organisation
-Adaptability and fast learning
+Analytical and detail-oriented,
+Strong problem-solving skills,
+Clear written and verbal communication,
+Time management and organisation,
+Adaptability and fast learning,
 Team collaboration 
 
 
@@ -69,7 +69,7 @@ Team collaboration
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="http://linkedin.com/in/bongiwe-makamu">The things I do daily on LinkedIn</a></td>
+      <td><a href="http://linkedin.com/in/bongiwe-makamu">My LinkedIn profile</a></td>
     </tr>
   </tbody>
 </table>
