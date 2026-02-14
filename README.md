@@ -23,21 +23,21 @@ Basic programming concepts (variables, loops, conditionals),
 UML diagram creation (Use Case, Activity, Class diagrams),
 Process flow documentation,
 Tableau / Power BI (introductory),
-Microsoft Word, Excel, PowerPoint
+Microsoft Word, Excel, and PowerPoint.
 ### Business & Systems Analysis
 Business requirements analysis,
 Problem identification and solution mapping,
 Process analysis and improvement,
 Systems thinking,
 Documentation and reporting,
-Stakeholder communication,
+and Stakeholder communication.
 ### Soft Skills
 Analytical and detail-oriented,
 Strong problem-solving skills,
 Clear written and verbal communication,
 Time management and organisation,
 Adaptability and fast learning,
-Team collaboration 
+Team collaboration.
 
 
 <!--Section 2: List 3-4 key projects-->
