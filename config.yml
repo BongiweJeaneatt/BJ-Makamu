@@ -1,4 +1,4 @@
 title: Jeanett Makamu
 description: My professional portfolio showcasing projects and skills
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 logo: MyImage.jpg
