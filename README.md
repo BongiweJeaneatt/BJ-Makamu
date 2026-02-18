@@ -18,10 +18,8 @@ I am currently building practical projects that showcase systems thinking, struc
 ## SKILLS
 
 ### Technical Skills
-SQL (basic queries, data handling)
-
-HTML
-
+SQL (basic queries, data handling),
+HTML,
 Basic programming concepts (variables, loops, conditionals),
 UML diagram creation (Use Case, Activity, Class diagrams),
 Process flow documentation,
