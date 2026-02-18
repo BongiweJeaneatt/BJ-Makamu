@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Jeanett Makamu Logo](/MyImage.jpg)
+![Jeanett Makamu Logo]('<img src="/MyImage.jpg" width="150">')
 
 # Welcome to My Portfolio
 
